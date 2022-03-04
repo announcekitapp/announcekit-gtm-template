@@ -1,2 +1,5 @@
 homepage: "https://announcekit.app/"
 documentation: "https://announcekit.app/docs"
+versions:
+  - sha: 77066a69864d6b35861943c56dad2f7e7af91fb9
+    changeNotes: Initial release.
